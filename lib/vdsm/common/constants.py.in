@@ -100,6 +100,7 @@ EXT_NICE = '@NICE_PATH@'
 
 EXT_PRLIMIT = '@PRLIMIT_PATH@'
 
+EXT_SANLOCK = '@SANLOCK_PATH@'
 EXT_SETSID = '@SETSID_PATH@'
 EXT_SH = '/bin/sh'  # The shell path is invariable
 EXT_SU = '@SU_PATH@'
